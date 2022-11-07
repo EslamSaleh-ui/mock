@@ -1,0 +1,20 @@
+[
+  {"id":1
+  ,"name":"steak",
+  "color":"f9bdad"
+  },
+  {"id":2
+  ,"name":"vegetables",
+  "color":"fad96d"
+  },
+   {"id":3
+  ,"name":"fish",
+  "color":"b0eafd"
+  }, {"id":4
+  ,"name":"Beverages",
+  "color":"ccb8ff"
+  }, {"id":5
+  ,"name":"juice",
+  "color":"ff9dc2"
+  },
+]
