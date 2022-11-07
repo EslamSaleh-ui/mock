@@ -4,7 +4,8 @@
 "category":"desert",
  "distance":"15 minutes away",
 "quantity":"5 pieces",
-"price":15,
+  "color":"fbedd8",
+ "price":15,
 "deal_price":12
 },
 {"id":2,
@@ -12,7 +13,8 @@
 "category":"fish"
   "distance":"20 minutes away",
 "quantity":"1 can",
-"price":20,
+  "color":"b0eafd"
+,"price":20,
 "deal_price":15
 }
 ]
