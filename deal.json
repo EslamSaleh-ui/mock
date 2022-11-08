@@ -16,5 +16,14 @@
   "color":"b0eafd"
 ,"price":20,
 "deal_price":15
+},
+{"id":3,
+"deal":"sardines",
+"category":"fish"
+  "distance":"20 minutes away",
+"quantity":"1 can",
+  "color":"b0eafd"
+,"price":20,
+"deal_price":15
 }
 ]
