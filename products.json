@@ -3,28 +3,28 @@
   ,"name":"Turkish steak",
    "category":"steak",
   "color":"f9bdad",
-   "price":"25",
+   "price":25,
    "quantity":"173 Grams"
   },
     {"id":2
   ,"name":"salmon",
    "category":"fish",
   "color":"b0eafd",
-   "price":"30",
+   "price":30,
    "quantity":"2 serving"
   },
      {"id":3
   ,"name":"red juice",
    "category":"juice",
   "color":"ff9dc2",
-   "price":"25",
+   "price":25,
    "quantity":"1 Bottle"
   },
   {"id":4
   ,"name":"cola",
    "category":"Beverages",
   "color":"ccb8ff",
-   "price":"11",
+   "price":11,
    "quantity":"1 Bottle"
   }
 ]
