@@ -1,7 +1,7 @@
 [{
 "id":1,
   "offer":"mega WAFFER",
-  "price":32,
-  "offer_price":17,
+  "price":32.00,
+  "offer_price":17.00,
   "end_date":"24 December 2020"
 }]
