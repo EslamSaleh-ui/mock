@@ -1,13 +1,13 @@
 [
 {"id":1,
-"deal":"summar sun ice cream pack 5 pieces",
+"deal":"summar sun ice cream pack/5 pieces",
  "distance":"15 minutes away",
   "color":"fbedd8",
  "price":15,
 "deal_price":12
 },
 {"id":2,
-"deal":"sardines 1 can",
+"deal":"sardines/1 can",
   "distance":"20 minutes away",
   "color":"b0eafd"
 ,"price":20,
